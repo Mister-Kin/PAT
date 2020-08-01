@@ -24,3 +24,5 @@ int even( int n )
     else
         return 0;
 }
+
+// return n % 2 == 0; 善用 return 可以使代码更简洁。
